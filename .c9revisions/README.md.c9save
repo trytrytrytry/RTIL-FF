@@ -1,3 +1,4 @@
 {"ts":1367871090746,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"RTIL-FF\n=======\n\nGromacs Topology Files for common RTILs\n"]],"start1":0,"start2":0,"length1":0,"length2":57}]],"length":57}
 {"contributors":[],"silentsave":false,"ts":1367871176633,"patch":[[{"diffs":[[0,"on RTILs"],[-1,"\n"]],"start1":48,"start2":48,"length1":9,"length2":8}]],"length":56,"saved":false}
 {"contributors":[],"silentsave":false,"ts":1367938626218,"patch":[[{"diffs":[[0,"on RTILs"],[1," containing: BMIm, BPy, BPyr, ..."]],"start1":48,"start2":48,"length1":8,"length2":41}]],"length":89,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1367996018594,"patch":[[{"diffs":[[0,"BMIm"],[1,"+"],[0,", BPy"],[1,"+"],[0,", BPyr"],[1,"+"],[0,", "],[-1,"..."],[1,"BF4-, Cl-\n"]],"start1":69,"start2":69,"length1":20,"length2":30}]],"length":99,"saved":false}
